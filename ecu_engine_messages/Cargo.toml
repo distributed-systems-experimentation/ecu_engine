@@ -1,0 +1,8 @@
+[package]
+name = "ecu_engine_messages"
+version = "0.1.1"
+edition = "2021"
+publish = ["kellnr"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
