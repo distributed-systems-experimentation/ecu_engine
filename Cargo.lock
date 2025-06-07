@@ -72,8 +72,6 @@ dependencies = [
 [[package]]
 name = "ecu_engine_messages"
 version = "0.1.1"
-source = "sparse+http://localhost:8000/api/v1/crates/"
-checksum = "14ca3ad33c61db28a6a395d03bab9163a57df22fb6bbefc016f75df86c76036a"
 dependencies = [
  "serde",
 ]
